@@ -1,0 +1,26 @@
+
+body {
+    background-color: black;
+    color: gray;
+    font-family: Arial;
+}
+
+.header {
+    background-color: gray;
+    width: 1200px;
+    padding: 20px;
+}
+
+.content {
+    width: 1200px;
+    padding: 20px;
+}
+
+a {
+    color: white;
+}
+
+.footer {
+    background-color: gray;
+    padding: 20px;
+}
